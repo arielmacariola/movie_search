@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# movie_search
+This is a movie search app created using reactjs. It uses themoviedb.org API to fetch the most popular movies by default and lists search results per input keyword.
